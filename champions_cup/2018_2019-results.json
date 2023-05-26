@@ -1,0 +1,873 @@
+[
+  {
+    "date": "FRI 12 OCT 2018",
+    "pool": "Pool 1",
+    "venue": "RDS Arena , Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Wasps",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "52",
+      "3"
+    ]
+  },
+  {
+    "date": "SAT 13 OCT 2018",
+    "pool": "Pool 1",
+    "venue": "Recreation Ground, Bath",
+    "teamA": "Bath Rugby",
+    "teamB": "Stade Toulousain",
+    "result": "AWAY_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "20",
+      "22"
+    ]
+  },
+  {
+    "date": "SAT 13 OCT 2018",
+    "pool": "Pool 2",
+    "venue": "Sandy Park Stadium, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "Munster Rugby",
+    "result": "DRAW",
+    "winner": null,
+    "score": [
+      "10",
+      "10"
+    ]
+  },
+  {
+    "date": "SAT 13 OCT 2018",
+    "pool": "Pool 5",
+    "venue": "GGL Stadium, Montpellier",
+    "teamA": "Montpellier",
+    "teamB": "Edinburgh Rugby",
+    "result": "HOME_WIN",
+    "winner": "Montpellier",
+    "score": [
+      "21",
+      "15"
+    ]
+  },
+  {
+    "date": "SAT 13 OCT 2018",
+    "pool": "Pool 4",
+    "venue": "Parc y Scarlets, Llanelli",
+    "teamA": "Scarlets",
+    "teamB": "Racing 92",
+    "result": "AWAY_WIN",
+    "winner": "Racing 92",
+    "score": [
+      "13",
+      "14"
+    ]
+  },
+  {
+    "date": "SAT 13 OCT 2018",
+    "pool": "Pool 4",
+    "venue": "Kingspan Stadium, Belfast",
+    "teamA": "Ulster Rugby",
+    "teamB": "Leicester Tigers",
+    "result": "HOME_WIN",
+    "winner": "Ulster Rugby",
+    "score": [
+      "24",
+      "10"
+    ]
+  },
+  {
+    "date": "SUN 14 OCT 2018",
+    "pool": "Pool 2",
+    "venue": "Kingsholm Stadium, Gloucester",
+    "teamA": "Gloucester Rugby",
+    "teamB": "Castres Olympique",
+    "result": "HOME_WIN",
+    "winner": "Gloucester Rugby",
+    "score": [
+      "19",
+      "14"
+    ]
+  },
+  {
+    "date": "SUN 14 OCT 2018",
+    "pool": "Pool 3",
+    "venue": "Matmut Stadium de Gerland, Lyon",
+    "teamA": "Lyon",
+    "teamB": "Cardiff Blues",
+    "result": "AWAY_WIN",
+    "winner": "Cardiff Blues",
+    "score": [
+      "21",
+      "30"
+    ]
+  },
+  {
+    "date": "SUN 14 OCT 2018",
+    "pool": "Pool 5",
+    "venue": "Stade Felix-Mayol, Toulon",
+    "teamA": "RC Toulon",
+    "teamB": "Newcastle Falcons",
+    "result": "AWAY_WIN",
+    "winner": "Newcastle Falcons",
+    "score": [
+      "25",
+      "26"
+    ]
+  },
+  {
+    "date": "SUN 14 OCT 2018",
+    "pool": "Pool 3",
+    "venue": "Scotstoun Stadium, Glasgow",
+    "teamA": "Glasgow Warriors",
+    "teamB": "Saracens",
+    "result": "HOME_WIN",
+    "winner": "Glasgow Warriors",
+    "score": [
+      "3",
+      "13"
+    ]
+  },
+  {
+    "date": "FRI 19 OCT 2018",
+    "pool": "Pool 4",
+    "venue": "Mattioli Woods Welford Road, Leicester",
+    "teamA": "Leicester Tigers",
+    "teamB": "Scarlets",
+    "result": "HOME_WIN",
+    "winner": "Leicester Tigers",
+    "score": [
+      "45",
+      "27"
+    ]
+  },
+  {
+    "date": "SAT 20 OCT 2018",
+    "pool": "Pool 2",
+    "venue": "Thomond Park, Limerick",
+    "teamA": "Munster Rugby",
+    "teamB": "Gloucester Rugby",
+    "result": "HOME_WIN",
+    "winner": "Munster Rugby",
+    "score": [
+      "36",
+      "22"
+    ]
+  },
+  {
+    "date": "SAT 20 OCT 2018",
+    "pool": "Pool 2",
+    "venue": "Stade Pierre Fabre, Castres",
+    "teamA": "Castres Olympique",
+    "teamB": "Exeter Chiefs",
+    "result": "HOME_WIN",
+    "winner": "Castres Olympique",
+    "score": [
+      "29",
+      "25"
+    ]
+  },
+  {
+    "date": "SAT 20 OCT 2018",
+    "pool": "Pool 1",
+    "venue": "Coventry Building Society Arena, Coventry",
+    "teamA": "Wasps",
+    "teamB": "Bath Rugby",
+    "result": "DRAW",
+    "winner": null,
+    "score": [
+      "35",
+      "35"
+    ]
+  },
+  {
+    "date": "SAT 20 OCT 2018",
+    "pool": "Pool 5",
+    "venue": "BT Murrayfield Stadium, Edinburgh",
+    "teamA": "Edinburgh Rugby",
+    "teamB": "RC Toulon",
+    "result": "HOME_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "40",
+      "14"
+    ]
+  },
+  {
+    "date": "SAT 20 OCT 2018",
+    "pool": "Pool 4",
+    "venue": "Paris La Defense Arena, Paris",
+    "teamA": "Racing 92",
+    "teamB": "Ulster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Racing 92",
+    "score": [
+      "44",
+      "12"
+    ]
+  },
+  {
+    "date": "SAT 20 OCT 2018",
+    "pool": "Pool 3",
+    "venue": "StoneX Stadium, Barnet",
+    "teamA": "Saracens",
+    "teamB": "Lyon",
+    "result": "HOME_WIN",
+    "winner": "Saracens",
+    "score": [
+      "29",
+      "10"
+    ]
+  },
+  {
+    "date": "SUN 21 OCT 2018",
+    "pool": "Pool 5",
+    "venue": "Kingston Park, Newcastle",
+    "teamA": "Newcastle Falcons",
+    "teamB": "Montpellier",
+    "result": "HOME_WIN",
+    "winner": "Newcastle Falcons",
+    "score": [
+      "23",
+      "20"
+    ]
+  },
+  {
+    "date": "SUN 21 OCT 2018",
+    "pool": "Pool 1",
+    "venue": "Stade Ernest Wallon, Toulouse",
+    "teamA": "Stade Toulousain",
+    "teamB": "Leinster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "28",
+      "27"
+    ]
+  },
+  {
+    "date": "SUN 21 OCT 2018",
+    "pool": "Pool 3",
+    "venue": "Cardiff Arms Park, Cardiff",
+    "teamA": "Cardiff Blues",
+    "teamB": "Glasgow Warriors",
+    "result": "AWAY_WIN",
+    "winner": "Glasgow Warriors",
+    "score": [
+      "12",
+      "29"
+    ]
+  },
+  {
+    "date": "FRI 07 DEC 2018",
+    "pool": "Pool 5",
+    "venue": "BT Murrayfield Stadium, Edinburgh",
+    "teamA": "Edinburgh Rugby",
+    "teamB": "Newcastle Falcons",
+    "result": "HOME_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "31",
+      "13"
+    ]
+  },
+  {
+    "date": "FRI 07 DEC 2018",
+    "pool": "Pool 4",
+    "venue": "Parc y Scarlets, Llanelli",
+    "teamA": "Scarlets",
+    "teamB": "Ulster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Ulster Rugby",
+    "score": [
+      "24",
+      "25"
+    ]
+  },
+  {
+    "date": "SAT 08 DEC 2018",
+    "pool": "Pool 2",
+    "venue": "Sandy Park Stadium, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "Gloucester Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Gloucester Rugby",
+    "score": [
+      "19",
+      "27"
+    ]
+  },
+  {
+    "date": "SAT 08 DEC 2018",
+    "pool": "Pool 3",
+    "venue": "Matmut Stadium de Gerland, Lyon",
+    "teamA": "Lyon",
+    "teamB": "Glasgow Warriors",
+    "result": "AWAY_WIN",
+    "winner": "Glasgow Warriors",
+    "score": [
+      "22",
+      "42"
+    ]
+  },
+  {
+    "date": "SAT 08 DEC 2018",
+    "pool": "Pool 1",
+    "venue": "Recreation Ground, Bath",
+    "teamA": "Bath Rugby",
+    "teamB": "Leinster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "10",
+      "17"
+    ]
+  },
+  {
+    "date": "SAT 08 DEC 2018",
+    "pool": "Pool 5",
+    "venue": "Stade Felix-Mayol, Toulon",
+    "teamA": "RC Toulon",
+    "teamB": "Montpellier",
+    "result": "HOME_WIN",
+    "winner": "RC Toulon",
+    "score": [
+      "38",
+      "28"
+    ]
+  },
+  {
+    "date": "SAT 08 DEC 2018",
+    "pool": "Pool 1",
+    "venue": "Coventry Building Society Arena, Coventry",
+    "teamA": "Wasps",
+    "teamB": "Stade Toulousain",
+    "result": "AWAY_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "16",
+      "24"
+    ]
+  },
+  {
+    "date": "SUN 09 DEC 2018",
+    "pool": "Pool 3",
+    "venue": "StoneX Stadium, Barnet",
+    "teamA": "Saracens",
+    "teamB": "Cardiff Blues",
+    "result": "HOME_WIN",
+    "winner": "Saracens",
+    "score": [
+      "51",
+      "25"
+    ]
+  },
+  {
+    "date": "SUN 09 DEC 2018",
+    "pool": "Pool 2",
+    "venue": "Thomond Park, Limerick",
+    "teamA": "Munster Rugby",
+    "teamB": "Castres Olympique",
+    "result": "AWAY_WIN",
+    "winner": "Castres Olympique",
+    "score": [
+      "30",
+      "5"
+    ]
+  },
+  {
+    "date": "SUN 09 DEC 2018",
+    "pool": "Pool 4",
+    "venue": "Paris La Defense Arena, Paris",
+    "teamA": "Racing 92",
+    "teamB": "Leicester Tigers",
+    "result": "HOME_WIN",
+    "winner": "Racing 92",
+    "score": [
+      "36",
+      "26"
+    ]
+  },
+  {
+    "date": "FRI 14 DEC 2018",
+    "pool": "Pool 2",
+    "venue": "Kingsholm Stadium, Gloucester",
+    "teamA": "Gloucester Rugby",
+    "teamB": "Exeter Chiefs",
+    "result": "AWAY_WIN",
+    "winner": "Exeter Chiefs",
+    "score": [
+      "17",
+      "29"
+    ]
+  },
+  {
+    "date": "FRI 14 DEC 2018",
+    "pool": "Pool 4",
+    "venue": "Kingspan Stadium, Belfast",
+    "teamA": "Ulster Rugby",
+    "teamB": "Scarlets",
+    "result": "HOME_WIN",
+    "winner": "Ulster Rugby",
+    "score": [
+      "30",
+      "15"
+    ]
+  },
+  {
+    "date": "SAT 15 DEC 2018",
+    "pool": "Pool 3",
+    "venue": "Cardiff Arms Park, Cardiff",
+    "teamA": "Cardiff Blues",
+    "teamB": "Saracens",
+    "result": "AWAY_WIN",
+    "winner": "Saracens",
+    "score": [
+      "14",
+      "26"
+    ]
+  },
+  {
+    "date": "SAT 15 DEC 2018",
+    "pool": "Pool 3",
+    "venue": "Scotstoun Stadium, Glasgow",
+    "teamA": "Glasgow Warriors",
+    "teamB": "Lyon",
+    "result": "HOME_WIN",
+    "winner": "Glasgow Warriors",
+    "score": [
+      "21",
+      "10"
+    ]
+  },
+  {
+    "date": "SAT 15 DEC 2018",
+    "pool": "Pool 1",
+    "venue": "Stade Ernest Wallon, Toulouse",
+    "teamA": "Stade Toulousain",
+    "teamB": "Wasps",
+    "result": "HOME_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "42",
+      "27"
+    ]
+  },
+  {
+    "date": "SAT 15 DEC 2018",
+    "pool": "Pool 2",
+    "venue": "Stade Pierre Fabre, Castres",
+    "teamA": "Castres Olympique",
+    "teamB": "Munster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Castres Olympique",
+    "score": [
+      "13",
+      "12"
+    ]
+  },
+  {
+    "date": "SAT 15 DEC 2018",
+    "pool": "Pool 1",
+    "venue": "Aviva Stadium, Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Bath Rugby",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "42",
+      "15"
+    ]
+  },
+  {
+    "date": "SUN 16 DEC 2018",
+    "pool": "Pool 4",
+    "venue": "Mattioli Woods Welford Road, Leicester",
+    "teamA": "Leicester Tigers",
+    "teamB": "Racing 92",
+    "result": "AWAY_WIN",
+    "winner": "Racing 92",
+    "score": [
+      "11",
+      "34"
+    ]
+  },
+  {
+    "date": "SUN 16 DEC 2018",
+    "pool": "Pool 5",
+    "venue": "GGL Stadium, Montpellier",
+    "teamA": "Montpellier",
+    "teamB": "RC Toulon",
+    "result": "HOME_WIN",
+    "winner": "Montpellier",
+    "score": [
+      "34",
+      "13"
+    ]
+  },
+  {
+    "date": "SUN 16 DEC 2018",
+    "pool": "Pool 5",
+    "venue": "Kingston Park, Newcastle",
+    "teamA": "Newcastle Falcons",
+    "teamB": "Edinburgh Rugby",
+    "result": "HOME_WIN",
+    "winner": "Newcastle Falcons",
+    "score": [
+      "8",
+      "21"
+    ]
+  },
+  {
+    "date": "FRI 11 JAN 2019",
+    "pool": "Pool 2",
+    "venue": "Kingsholm Stadium, Gloucester",
+    "teamA": "Gloucester Rugby",
+    "teamB": "Munster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Munster Rugby",
+    "score": [
+      "15",
+      "41"
+    ]
+  },
+  {
+    "date": "SAT 12 JAN 2019",
+    "pool": "Pool 5",
+    "venue": "GGL Stadium, Montpellier",
+    "teamA": "Montpellier",
+    "teamB": "Newcastle Falcons",
+    "result": "AWAY_WIN",
+    "winner": "Newcastle Falcons",
+    "score": [
+      "45",
+      "8"
+    ]
+  },
+  {
+    "date": "SAT 12 JAN 2019",
+    "pool": "Pool 1",
+    "venue": "RDS Arena , Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Stade Toulousain",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "29",
+      "13"
+    ]
+  },
+  {
+    "date": "SAT 12 JAN 2019",
+    "pool": "Pool 1",
+    "venue": "Recreation Ground, Bath",
+    "teamA": "Bath Rugby",
+    "teamB": "Wasps",
+    "result": "HOME_WIN",
+    "winner": "Bath Rugby",
+    "score": [
+      "18",
+      "16"
+    ]
+  },
+  {
+    "date": "SAT 12 JAN 2019",
+    "pool": "Pool 4",
+    "venue": "Kingspan Stadium, Belfast",
+    "teamA": "Ulster Rugby",
+    "teamB": "Racing 92",
+    "result": "HOME_WIN",
+    "winner": "Ulster Rugby",
+    "score": [
+      "26",
+      "22"
+    ]
+  },
+  {
+    "date": "SAT 12 JAN 2019",
+    "pool": "Pool 5",
+    "venue": "Stade Felix-Mayol, Toulon",
+    "teamA": "RC Toulon",
+    "teamB": "Edinburgh Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "17",
+      "28"
+    ]
+  },
+  {
+    "date": "SAT 12 JAN 2019",
+    "pool": "Pool 4",
+    "venue": "Parc y Scarlets, Llanelli",
+    "teamA": "Scarlets",
+    "teamB": "Leicester Tigers",
+    "result": "HOME_WIN",
+    "winner": "Scarlets",
+    "score": [
+      "33",
+      "10"
+    ]
+  },
+  {
+    "date": "SUN 13 JAN 2019",
+    "pool": "Pool 2",
+    "venue": "Sandy Park Stadium, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "Castres Olympique",
+    "result": "HOME_WIN",
+    "winner": "Exeter Chiefs",
+    "score": [
+      "34",
+      "12"
+    ]
+  },
+  {
+    "date": "SUN 13 JAN 2019",
+    "pool": "Pool 3",
+    "venue": "Scotstoun Stadium, Glasgow",
+    "teamA": "Glasgow Warriors",
+    "teamB": "Cardiff Blues",
+    "result": "HOME_WIN",
+    "winner": "Glasgow Warriors",
+    "score": [
+      "33",
+      "24"
+    ]
+  },
+  {
+    "date": "SUN 13 JAN 2019",
+    "pool": "Pool 3",
+    "venue": "Matmut Stadium de Gerland, Lyon",
+    "teamA": "Lyon",
+    "teamB": "Saracens",
+    "result": "AWAY_WIN",
+    "winner": "Saracens",
+    "score": [
+      "10",
+      "28"
+    ]
+  },
+  {
+    "date": "FRI 18 JAN 2019",
+    "pool": "Pool 5",
+    "venue": "BT Murrayfield Stadium, Edinburgh",
+    "teamA": "Edinburgh Rugby",
+    "teamB": "Montpellier",
+    "result": "HOME_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "19",
+      "10"
+    ]
+  },
+  {
+    "date": "FRI 18 JAN 2019",
+    "pool": "Pool 5",
+    "venue": "Kingston Park, Newcastle",
+    "teamA": "Newcastle Falcons",
+    "teamB": "RC Toulon",
+    "result": "AWAY_WIN",
+    "winner": "RC Toulon",
+    "score": [
+      "24",
+      "27"
+    ]
+  },
+  {
+    "date": "SAT 19 JAN 2019",
+    "pool": "Pool 3",
+    "venue": "StoneX Stadium, Barnet",
+    "teamA": "Saracens",
+    "teamB": "Glasgow Warriors",
+    "result": "HOME_WIN",
+    "winner": "Saracens",
+    "score": [
+      "38",
+      "19"
+    ]
+  },
+  {
+    "date": "SAT 19 JAN 2019",
+    "pool": "Pool 3",
+    "venue": "Cardiff Arms Park, Cardiff",
+    "teamA": "Cardiff Blues",
+    "teamB": "Lyon",
+    "result": "HOME_WIN",
+    "winner": "Cardiff Blues",
+    "score": [
+      "33",
+      "14"
+    ]
+  },
+  {
+    "date": "SAT 19 JAN 2019",
+    "pool": "Pool 4",
+    "venue": "Paris La Defense Arena, Paris",
+    "teamA": "Racing 92",
+    "teamB": "Scarlets",
+    "result": "HOME_WIN",
+    "winner": "Racing 92",
+    "score": [
+      "46",
+      "33"
+    ]
+  },
+  {
+    "date": "SAT 19 JAN 2019",
+    "pool": "Pool 4",
+    "venue": "Mattioli Woods Welford Road, Leicester",
+    "teamA": "Leicester Tigers",
+    "teamB": "Ulster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Ulster Rugby",
+    "score": [
+      "13",
+      "14"
+    ]
+  },
+  {
+    "date": "SAT 19 JAN 2019",
+    "pool": "Pool 2",
+    "venue": "Thomond Park, Limerick",
+    "teamA": "Munster Rugby",
+    "teamB": "Exeter Chiefs",
+    "result": "HOME_WIN",
+    "winner": "Munster Rugby",
+    "score": [
+      "9",
+      "7"
+    ]
+  },
+  {
+    "date": "SAT 19 JAN 2019",
+    "pool": "Pool 2",
+    "venue": "Stade Pierre Fabre, Castres",
+    "teamA": "Castres Olympique",
+    "teamB": "Gloucester Rugby",
+    "result": "HOME_WIN",
+    "winner": "Castres Olympique",
+    "score": [
+      "24",
+      "22"
+    ]
+  },
+  {
+    "date": "SUN 20 JAN 2019",
+    "pool": "Pool 1",
+    "venue": "Coventry Building Society Arena, Coventry",
+    "teamA": "Wasps",
+    "teamB": "Leinster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "19",
+      "37"
+    ]
+  },
+  {
+    "date": "SUN 20 JAN 2019",
+    "pool": "Pool 1",
+    "venue": "Stade Ernest Wallon, Toulouse",
+    "teamA": "Stade Toulousain",
+    "teamB": "Bath Rugby",
+    "result": "HOME_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "20",
+      "17"
+    ]
+  },
+  {
+    "date": "SAT 30 MAR 2019",
+    "pool": "Quarter-Finals",
+    "venue": "BT Murrayfield Stadium, Edinburgh",
+    "teamA": "Edinburgh Rugby",
+    "teamB": "Munster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Munster Rugby",
+    "score": [
+      "13",
+      "17"
+    ]
+  },
+  {
+    "date": "SAT 30 MAR 2019",
+    "pool": "Quarter-Finals",
+    "venue": "StoneX Stadium, Barnet",
+    "teamA": "Saracens",
+    "teamB": "Glasgow Warriors",
+    "result": "HOME_WIN",
+    "winner": "Saracens",
+    "score": [
+      "56",
+      "27"
+    ]
+  },
+  {
+    "date": "SAT 30 MAR 2019",
+    "pool": "Quarter-Finals",
+    "venue": "Aviva Stadium, Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Ulster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "21",
+      "18"
+    ]
+  },
+  {
+    "date": "SUN 31 MAR 2019",
+    "pool": "Quarter-Finals",
+    "venue": "Paris La Defense Arena, Paris",
+    "teamA": "Racing 92",
+    "teamB": "Stade Toulousain",
+    "result": "AWAY_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "21",
+      "22"
+    ]
+  },
+  {
+    "date": "SAT 20 APR 2019",
+    "pool": "Semi-Finals",
+    "venue": "Coventry Building Society Arena, Coventry",
+    "teamA": "Saracens",
+    "teamB": "Munster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Saracens",
+    "score": [
+      "32",
+      "16"
+    ]
+  },
+  {
+    "date": "SUN 21 APR 2019",
+    "pool": "Semi-Finals",
+    "venue": "Aviva Stadium, Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Stade Toulousain",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "30",
+      "12"
+    ]
+  },
+  {
+    "date": "SAT 11 MAY 2019",
+    "pool": "Final",
+    "venue": "St James' Park, Newcastle",
+    "teamA": "Leinster Rugby",
+    "teamB": "Saracens",
+    "result": "AWAY_WIN",
+    "winner": "Saracens",
+    "score": [
+      "10",
+      "20"
+    ]
+  }
+]

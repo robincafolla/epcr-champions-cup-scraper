@@ -1,0 +1,496 @@
+[
+  {
+    "date": "FRI 11 DEC 2020",
+    "pool": "Pool A",
+    "venue": "cinch Stadium at Franklin's Gardens, Northampton",
+    "teamA": "Northampton Saints",
+    "teamB": "Bordeaux-Bègles",
+    "result": "AWAY_WIN",
+    "winner": "Bordeaux-Bègles",
+    "score": [
+      "12",
+      "16"
+    ]
+  },
+  {
+    "date": "FRI 11 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Kingspan Stadium, Belfast",
+    "teamA": "Ulster Rugby",
+    "teamB": "Stade Toulousain",
+    "result": "AWAY_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "22",
+      "29"
+    ]
+  },
+  {
+    "date": "SAT 12 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Ashton Gate, Bristol",
+    "teamA": "Bristol Bears",
+    "teamB": "ASM Clermont Auvergne",
+    "result": "AWAY_WIN",
+    "winner": "ASM Clermont Auvergne",
+    "score": [
+      "38",
+      "51"
+    ]
+  },
+  {
+    "date": "SAT 12 DEC 2020",
+    "pool": "Pool A",
+    "venue": "Stade Felix-Mayol, Toulon",
+    "teamA": "RC Toulon",
+    "teamB": "Sale Sharks",
+    "result": "HOME_WIN",
+    "winner": "RC Toulon",
+    "score": [
+      "26",
+      "14"
+    ]
+  },
+  {
+    "date": "SAT 12 DEC 2020",
+    "pool": "Pool A",
+    "venue": "The Recreation Ground, Bath",
+    "teamA": "Bath Rugby",
+    "teamB": "Scarlets",
+    "result": "AWAY_WIN",
+    "winner": "Scarlets",
+    "score": [
+      "19",
+      "23"
+    ]
+  },
+  {
+    "date": "SAT 12 DEC 2020",
+    "pool": "Pool A",
+    "venue": "GGL Stadium, Montpellier",
+    "teamA": "Montpellier",
+    "teamB": "Leinster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "14",
+      "35"
+    ]
+  },
+  {
+    "date": "SAT 12 DEC 2020",
+    "pool": "Pool A",
+    "venue": "Rodney Parade, Newport",
+    "teamA": "Dragons",
+    "teamB": "Wasps",
+    "result": "HOME_WIN",
+    "winner": "Dragons",
+    "score": [
+      "8",
+      "24"
+    ]
+  },
+  {
+    "date": "SAT 12 DEC 2020",
+    "pool": "Pool A",
+    "venue": "BT Murrayfield Stadium, Edinburgh",
+    "teamA": "Edinburgh Rugby",
+    "teamB": "La Rochelle",
+    "result": "HOME_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "8",
+      "13"
+    ]
+  },
+  {
+    "date": "SUN 13 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Matmut Stadium de Gerland, Lyon",
+    "teamA": "Lyon",
+    "teamB": "Gloucester Rugby",
+    "result": "HOME_WIN",
+    "winner": "Lyon",
+    "score": [
+      "55",
+      "10"
+    ]
+  },
+  {
+    "date": "SUN 13 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Paris La Defense Arena, Paris",
+    "teamA": "Racing 92",
+    "teamB": "Connacht Rugby",
+    "result": "HOME_WIN",
+    "winner": "Racing 92",
+    "score": [
+      "26",
+      "22"
+    ]
+  },
+  {
+    "date": "SUN 13 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Sandy Park, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "Glasgow Warriors",
+    "result": "HOME_WIN",
+    "winner": "Exeter Chiefs",
+    "score": [
+      "42",
+      "0"
+    ]
+  },
+  {
+    "date": "SUN 13 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Thomond Park, Limerick",
+    "teamA": "Munster Rugby",
+    "teamB": "Harlequins",
+    "result": "AWAY_WIN",
+    "winner": "Harlequins",
+    "score": [
+      "21",
+      "7"
+    ]
+  },
+  {
+    "date": "FRI 18 DEC 2020",
+    "pool": "Pool A",
+    "venue": "Parc y Scarlets, Llanelli",
+    "teamA": "Scarlets",
+    "teamB": "RC Toulon",
+    "result": "HOME_WIN",
+    "winner": "Scarlets",
+    "score": [
+      "28",
+      "0"
+    ]
+  },
+  {
+    "date": "FRI 18 DEC 2020",
+    "pool": "Pool A",
+    "venue": "Coventry Building Society Arena, Coventry",
+    "teamA": "Wasps",
+    "teamB": "Montpellier",
+    "result": "HOME_WIN",
+    "winner": "Wasps",
+    "score": [
+      "33",
+      "14"
+    ]
+  },
+  {
+    "date": "SAT 19 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Scotstoun Stadium, Glasgow",
+    "teamA": "Glasgow Warriors",
+    "teamB": "Lyon",
+    "result": "AWAY_WIN",
+    "winner": "Lyon",
+    "score": [
+      "0",
+      "28"
+    ]
+  },
+  {
+    "date": "SAT 19 DEC 2020",
+    "pool": "Pool A",
+    "venue": "RDS Arena , Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Northampton Saints",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "35",
+      "19"
+    ]
+  },
+  {
+    "date": "SAT 19 DEC 2020",
+    "pool": "Pool A",
+    "venue": "Stade Marcel Deflandre, La Rochelle",
+    "teamA": "La Rochelle",
+    "teamB": "Bath Rugby",
+    "result": "HOME_WIN",
+    "winner": "La Rochelle",
+    "score": [
+      "28",
+      "0"
+    ]
+  },
+  {
+    "date": "SAT 19 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Kingsholm Stadium, Gloucester",
+    "teamA": "Gloucester Rugby",
+    "teamB": "Ulster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Gloucester Rugby",
+    "score": [
+      "38",
+      "34"
+    ]
+  },
+  {
+    "date": "SAT 19 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Stade Marcel-Michelin, Clermont-Ferrand",
+    "teamA": "ASM Clermont Auvergne",
+    "teamB": "Munster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Munster Rugby",
+    "score": [
+      "31",
+      "39"
+    ]
+  },
+  {
+    "date": "SAT 19 DEC 2020",
+    "pool": "Pool A",
+    "venue": "Stade Chaban-Delmas, Bordeaux",
+    "teamA": "Bordeaux-Bègles",
+    "teamB": "Dragons",
+    "result": "AWAY_WIN",
+    "winner": "Dragons",
+    "score": [
+      "47",
+      "8"
+    ]
+  },
+  {
+    "date": "SAT 19 DEC 2020",
+    "pool": "Pool A",
+    "venue": "AJ Bell Stadium, Salford",
+    "teamA": "Sale Sharks",
+    "teamB": "Edinburgh Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "15",
+      "16"
+    ]
+  },
+  {
+    "date": "SUN 20 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Twickenham Stoop, Twickenham",
+    "teamA": "Harlequins",
+    "teamB": "Racing 92",
+    "result": "HOME_WIN",
+    "winner": "Harlequins",
+    "score": [
+      "7",
+      "49"
+    ]
+  },
+  {
+    "date": "SUN 20 DEC 2020",
+    "pool": "Pool B",
+    "venue": "Stade Ernest Wallon, Toulouse",
+    "teamA": "Stade Toulousain",
+    "teamB": "Exeter Chiefs",
+    "result": "HOME_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "28",
+      "0"
+    ]
+  },
+  {
+    "date": "SUN 20 DEC 2020",
+    "pool": "Pool B",
+    "venue": "The Sportsground, Galway",
+    "teamA": "Connacht Rugby",
+    "teamB": "Bristol Bears",
+    "result": "AWAY_WIN",
+    "winner": "Bristol Bears",
+    "score": [
+      "18",
+      "27"
+    ]
+  },
+  {
+    "date": "FRI 02 APR 2021",
+    "pool": "Round of 16",
+    "venue": "Kingsholm, Gloucester",
+    "teamA": "Gloucester Rugby",
+    "teamB": "La Rochelle",
+    "result": "AWAY_WIN",
+    "winner": "La Rochelle",
+    "score": [
+      "16",
+      "27"
+    ]
+  },
+  {
+    "date": "SAT 03 APR 2021",
+    "pool": "Round of 16",
+    "venue": "Coventry Building Society Arena, Coventry",
+    "teamA": "Wasps",
+    "teamB": "ASM Clermont Auvergne",
+    "result": "AWAY_WIN",
+    "winner": "ASM Clermont Auvergne",
+    "score": [
+      "25",
+      "27"
+    ]
+  },
+  {
+    "date": "SAT 03 APR 2021",
+    "pool": "Round of 16",
+    "venue": "Thomond Park, Limerick",
+    "teamA": "Munster Rugby",
+    "teamB": "Stade Toulousain",
+    "result": "AWAY_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "33",
+      "40"
+    ]
+  },
+  {
+    "date": "SAT 03 APR 2021",
+    "pool": "Round of 16",
+    "venue": "Sandy Park, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "Lyon",
+    "result": "HOME_WIN",
+    "winner": "Exeter Chiefs",
+    "score": [
+      "47",
+      "25"
+    ]
+  },
+  {
+    "date": "SUN 04 APR 2021",
+    "pool": "Round of 16",
+    "venue": "Paris La Defense Arena, Paris",
+    "teamA": "Racing 92",
+    "teamB": "Edinburgh Rugby",
+    "result": "HOME_WIN",
+    "winner": "Racing 92",
+    "score": [
+      "56",
+      "3"
+    ]
+  },
+  {
+    "date": "SUN 04 APR 2021",
+    "pool": "Round of 16",
+    "venue": "Stade Chaban-Delmas, Bordeaux",
+    "teamA": "Bordeaux-Bègles",
+    "teamB": "Bristol Bears",
+    "result": "HOME_WIN",
+    "winner": "Bordeaux-Bègles",
+    "score": [
+      "36",
+      "17"
+    ]
+  },
+  {
+    "date": "SUN 04 APR 2021",
+    "pool": "Round of 16",
+    "venue": "Parc y Scarlets, Llanelli",
+    "teamA": "Scarlets",
+    "teamB": "Sale Sharks",
+    "result": "AWAY_WIN",
+    "winner": "Sale Sharks",
+    "score": [
+      "14",
+      "57"
+    ]
+  },
+  {
+    "date": "SAT 10 APR 2021",
+    "pool": "Quarter Final",
+    "venue": "Stade Marcel Deflandre, La Rochelle",
+    "teamA": "La Rochelle",
+    "teamB": "Sale Sharks",
+    "result": "HOME_WIN",
+    "winner": "La Rochelle",
+    "score": [
+      "45",
+      "21"
+    ]
+  },
+  {
+    "date": "SAT 10 APR 2021",
+    "pool": "Quarter Final",
+    "venue": "Sandy Park, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "Leinster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "22",
+      "34"
+    ]
+  },
+  {
+    "date": "SUN 11 APR 2021",
+    "pool": "Quarter Final",
+    "venue": "Stade Chaban-Delmas, Bordeaux",
+    "teamA": "Bordeaux-Bègles",
+    "teamB": "Racing 92",
+    "result": "HOME_WIN",
+    "winner": "Bordeaux-Bègles",
+    "score": [
+      "24",
+      "21"
+    ]
+  },
+  {
+    "date": "SUN 11 APR 2021",
+    "pool": "Quarter Final",
+    "venue": "Stade Marcel-Michelin, Clermont-Ferrand",
+    "teamA": "ASM Clermont Auvergne",
+    "teamB": "Stade Toulousain",
+    "result": "AWAY_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "12",
+      "21"
+    ]
+  },
+  {
+    "date": "SAT 01 MAY 2021",
+    "pool": "Semi Final",
+    "venue": "Stade Ernest Wallon, Toulouse",
+    "teamA": "Stade Toulousain",
+    "teamB": "Bordeaux-Bègles",
+    "result": "AWAY_WIN",
+    "winner": "Bordeaux-Bègles",
+    "score": [
+      "21",
+      "9"
+    ]
+  },
+  {
+    "date": "SUN 02 MAY 2021",
+    "pool": "Semi Final",
+    "venue": "Stade Marcel Deflandre, La Rochelle",
+    "teamA": "La Rochelle",
+    "teamB": "Leinster Rugby",
+    "result": "HOME_WIN",
+    "winner": "La Rochelle",
+    "score": [
+      "32",
+      "23"
+    ]
+  },
+  {
+    "date": "SAT 22 MAY 2021",
+    "pool": "Final",
+    "venue": "Twickenham Stadium, Twickenham",
+    "teamA": "La Rochelle",
+    "teamB": "Stade Toulousain",
+    "result": "AWAY_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "17",
+      "22"
+    ]
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "date": "FRI 09 DEC 2022",
+    "pool": "PB",
+    "venue": "Gtech Community Stadium, Brentford",
+    "teamA": "London Irish",
+    "teamB": "Montpellier Hérault Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Montpellier Hérault Rugby",
+    "score": [
+      "27",
+      "32"
+    ]
+  },
+  {
+    "date": "SAT 10 DEC 2022",
+    "pool": "PA",
+    "venue": "Hollywoodbets Kings Park, Durban",
+    "teamA": "Cell C Sharks",
+    "teamB": "Harlequins",
+    "result": "HOME_WIN",
+    "winner": "Cell C Sharks",
+    "score": [
+      "39",
+      "31"
+    ]
+  },
+  {
+    "date": "SAT 10 DEC 2022",
+    "pool": "PA",
+    "venue": "Stade Océane, Le Havre",
+    "teamA": "Racing 92",
+    "teamB": "Leinster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "10",
+      "42"
+    ]
+  },
+  {
+    "date": "SAT 10 DEC 2022",
+    "pool": "PA",
+    "venue": "Kingsholm Stadium, Gloucester",
+    "teamA": "Gloucester Rugby",
+    "teamB": "Union Bordeaux-Bègles",
+    "result": "HOME_WIN",
+    "winner": "Gloucester Rugby",
+    "score": [
+      "22",
+      "17"
+    ]
+  },
+  {
+    "date": "SAT 10 DEC 2022",
+    "pool": "PB",
+    "venue": "Stade Marcel-Michelin, Clermont-Ferrand",
+    "teamA": "ASM Clermont Auvergne",
+    "teamB": "DHL Stormers",
+    "result": "HOME_WIN",
+    "winner": "ASM Clermont Auvergne",
+    "score": [
+      "24",
+      "14"
+    ]
+  },
+  {
+    "date": "SAT 10 DEC 2022",
+    "pool": "PB",
+    "venue": "Stade Marcel Deflandre, La Rochelle",
+    "teamA": "Stade Rochelais",
+    "teamB": "Northampton Saints",
+    "result": "HOME_WIN",
+    "winner": "Stade Rochelais",
+    "score": [
+      "46",
+      "12"
+    ]
+  },
+  {
+    "date": "SAT 10 DEC 2022",
+    "pool": "PA",
+    "venue": "Loftus Versfeld, Pretoria",
+    "teamA": "Vodacom Bulls",
+    "teamB": "Lyon",
+    "result": "HOME_WIN",
+    "winner": "Vodacom Bulls",
+    "score": [
+      "42",
+      "36"
+    ]
+  },
+  {
+    "date": "SAT 10 DEC 2022",
+    "pool": "PA",
+    "venue": "Stade Pierre Fabre, Castres",
+    "teamA": "Castres Olympique",
+    "teamB": "Exeter Chiefs",
+    "result": "AWAY_WIN",
+    "winner": "Exeter Chiefs",
+    "score": [
+      "12",
+      "27"
+    ]
+  },
+  {
+    "date": "SUN 11 DEC 2022",
+    "pool": "PB",
+    "venue": "AJ Bell Stadium, Salford",
+    "teamA": "Sale Sharks",
+    "teamB": "Ulster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Sale Sharks",
+    "score": [
+      "39",
+      "0"
+    ]
+  },
+  {
+    "date": "SUN 11 DEC 2022",
+    "pool": "PA",
+    "venue": "StoneX Stadium, Barnet",
+    "teamA": "Saracens",
+    "teamB": "Edinburgh Rugby",
+    "result": "HOME_WIN",
+    "winner": "Saracens",
+    "score": [
+      "30",
+      "26"
+    ]
+  },
+  {
+    "date": "SUN 11 DEC 2022",
+    "pool": "PB",
+    "venue": "Thomond Park, Limerick",
+    "teamA": "Munster Rugby",
+    "teamB": "Stade Toulousain",
+    "result": "AWAY_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "13",
+      "18"
+    ]
+  },
+  {
+    "date": "SUN 11 DEC 2022",
+    "pool": "PB",
+    "venue": "Swansea.com Stadium, Swansea",
+    "teamA": "Ospreys",
+    "teamB": "Leicester Tigers",
+    "result": "AWAY_WIN",
+    "winner": "Leicester Tigers",
+    "score": [
+      "17",
+      "23"
+    ]
+  },
+  {
+    "date": "FRI 16 DEC 2022",
+    "pool": "PA",
+    "venue": "RDS Arena , Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Gloucester Rugby",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "57",
+      "0"
+    ]
+  },
+  {
+    "date": "FRI 16 DEC 2022",
+    "pool": "PA",
+    "venue": "Stade Chaban-Delmas, Bordeaux",
+    "teamA": "Union Bordeaux-Bègles",
+    "teamB": "Cell C Sharks",
+    "result": "AWAY_WIN",
+    "winner": "Cell C Sharks",
+    "score": [
+      "16",
+      "19"
+    ]
+  },
+  {
+    "date": "SAT 17 DEC 2022",
+    "pool": "PA",
+    "venue": "Sandy Park, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "Vodacom Bulls",
+    "result": "HOME_WIN",
+    "winner": "Exeter Chiefs",
+    "score": [
+      "44",
+      "14"
+    ]
+  },
+  {
+    "date": "SAT 17 DEC 2022",
+    "pool": "PA",
+    "venue": "DAM Health Stadium, Edinburgh",
+    "teamA": "Edinburgh Rugby",
+    "teamB": "Castres Olympique",
+    "result": "HOME_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "31",
+      "20"
+    ]
+  },
+  {
+    "date": "SAT 17 DEC 2022",
+    "pool": "PA",
+    "venue": "Matmut Stadium de Gerland, Lyon",
+    "teamA": "Lyon",
+    "teamB": "Saracens",
+    "result": "AWAY_WIN",
+    "winner": "Saracens",
+    "score": [
+      "20",
+      "28"
+    ]
+  },
+  {
+    "date": "SAT 17 DEC 2022",
+    "pool": "PB",
+    "venue": "Mattioli Woods Welford Road, Leicester",
+    "teamA": "Leicester Tigers",
+    "teamB": "ASM Clermont Auvergne",
+    "result": "HOME_WIN",
+    "winner": "Leicester Tigers",
+    "score": [
+      "23",
+      "16"
+    ]
+  },
+  {
+    "date": "SAT 17 DEC 2022",
+    "pool": "PB",
+    "venue": "Aviva Stadium, Dublin",
+    "teamA": "Ulster Rugby",
+    "teamB": "Stade Rochelais",
+    "result": "AWAY_WIN",
+    "winner": "Stade Rochelais",
+    "score": [
+      "29",
+      "36"
+    ]
+  },
+  {
+    "date": "SAT 17 DEC 2022",
+    "pool": "PB",
+    "venue": "DHL Stadium, Cape Town",
+    "teamA": "DHL Stormers",
+    "teamB": "London Irish",
+    "result": "HOME_WIN",
+    "winner": "DHL Stormers",
+    "score": [
+      "34",
+      "14"
+    ]
+  },
+  {
+    "date": "SAT 17 DEC 2022",
+    "pool": "PB",
+    "venue": "GGL Stadium, Montpellier",
+    "teamA": "Montpellier Hérault Rugby",
+    "teamB": "Ospreys",
+    "result": "AWAY_WIN",
+    "winner": "Ospreys",
+    "score": [
+      "10",
+      "21"
+    ]
+  },
+  {
+    "date": "SUN 18 DEC 2022",
+    "pool": "PB",
+    "venue": "Stade Ernest Wallon, Toulouse",
+    "teamA": "Stade Toulousain",
+    "teamB": "Sale Sharks",
+    "result": "HOME_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "45",
+      "19"
+    ]
+  },
+  {
+    "date": "SUN 18 DEC 2022",
+    "pool": "PB",
+    "venue": "cinch Stadium at Franklin's Gardens, Northampton",
+    "teamA": "Northampton Saints",
+    "teamB": "Munster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Northampton Saints",
+    "score": [
+      "6",
+      "17"
+    ]
+  },
+  {
+    "date": "SUN 18 DEC 2022",
+    "pool": "PA",
+    "venue": "Twickenham Stoop, Twickenham",
+    "teamA": "Harlequins",
+    "teamB": "Racing 92",
+    "result": "HOME_WIN",
+    "winner": "Harlequins",
+    "score": [
+      "14",
+      "10"
+    ]
+  },
+  {
+    "date": "FRI 13 JAN 2023",
+    "pool": "PB",
+    "venue": "Stade Marcel-Michelin, Clermont-Ferrand",
+    "teamA": "ASM Clermont Auvergne",
+    "teamB": "Leicester Tigers",
+    "result": "AWAY_WIN",
+    "winner": "Leicester Tigers",
+    "score": [
+      "29",
+      "44"
+    ]
+  },
+  {
+    "date": "SAT 14 JAN 2023",
+    "pool": "PA",
+    "venue": "Kingsholm Stadium, Gloucester",
+    "teamA": "Gloucester Rugby",
+    "teamB": "Leinster Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "14",
+      "49"
+    ]
+  },
+  {
+    "date": "SAT 14 JAN 2023",
+    "pool": "PB",
+    "venue": "AJ Bell Stadium, Salford",
+    "teamA": "Sale Sharks",
+    "teamB": "Stade Toulousain",
+    "result": "HOME_WIN",
+    "winner": "Sale Sharks",
+    "score": [
+      "5",
+      "27"
+    ]
+  },
+  {
+    "date": "SAT 14 JAN 2023",
+    "pool": "PA",
+    "venue": "Hollywoodbets Kings Park, Durban",
+    "teamA": "Cell C Sharks",
+    "teamB": "Union Bordeaux-Bègles",
+    "result": "HOME_WIN",
+    "winner": "Cell C Sharks",
+    "score": [
+      "32",
+      "3"
+    ]
+  },
+  {
+    "date": "SAT 14 JAN 2023",
+    "pool": "PB",
+    "venue": "Thomond Park, Limerick",
+    "teamA": "Munster Rugby",
+    "teamB": "Northampton Saints",
+    "result": "HOME_WIN",
+    "winner": "Munster Rugby",
+    "score": [
+      "27",
+      "23"
+    ]
+  },
+  {
+    "date": "SAT 14 JAN 2023",
+    "pool": "PB",
+    "venue": "Stade Marcel Deflandre, La Rochelle",
+    "teamA": "Stade Rochelais",
+    "teamB": "Ulster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Stade Rochelais",
+    "score": [
+      "7",
+      "3"
+    ]
+  },
+  {
+    "date": "SAT 14 JAN 2023",
+    "pool": "PA",
+    "venue": "Loftus Versfeld, Pretoria",
+    "teamA": "Vodacom Bulls",
+    "teamB": "Exeter Chiefs",
+    "result": "HOME_WIN",
+    "winner": "Vodacom Bulls",
+    "score": [
+      "39",
+      "28"
+    ]
+  },
+  {
+    "date": "SAT 14 JAN 2023",
+    "pool": "PB",
+    "venue": "Swansea.com Stadium, Swansea",
+    "teamA": "Ospreys",
+    "teamB": "Montpellier Hérault Rugby",
+    "result": "HOME_WIN",
+    "winner": "Ospreys",
+    "score": [
+      "35",
+      "29"
+    ]
+  },
+  {
+    "date": "SAT 14 JAN 2023",
+    "pool": "PA",
+    "venue": "StoneX Stadium, Barnet",
+    "teamA": "Saracens",
+    "teamB": "Lyon",
+    "result": "HOME_WIN",
+    "winner": "Saracens",
+    "score": [
+      "48",
+      "28"
+    ]
+  },
+  {
+    "date": "SUN 15 JAN 2023",
+    "pool": "PA",
+    "venue": "Stade Pierre Fabre, Castres",
+    "teamA": "Castres Olympique",
+    "teamB": "Edinburgh Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "21",
+      "34"
+    ]
+  },
+  {
+    "date": "SUN 15 JAN 2023",
+    "pool": "PB",
+    "venue": "Gtech Community Stadium, Brentford",
+    "teamA": "London Irish",
+    "teamB": "DHL Stormers",
+    "result": "AWAY_WIN",
+    "winner": "DHL Stormers",
+    "score": [
+      "14",
+      "28"
+    ]
+  },
+  {
+    "date": "SUN 15 JAN 2023",
+    "pool": "PA",
+    "venue": "Paris La Defense Arena, Paris",
+    "teamA": "Racing 92",
+    "teamB": "Harlequins",
+    "result": "HOME_WIN",
+    "winner": "Racing 92",
+    "score": [
+      "30",
+      "29"
+    ]
+  },
+  {
+    "date": "FRI 20 JAN 2023",
+    "pool": "PB",
+    "venue": "Mattioli Woods Welford Road, Leicester",
+    "teamA": "Leicester Tigers",
+    "teamB": "Ospreys",
+    "result": "AWAY_WIN",
+    "winner": "Ospreys",
+    "score": [
+      "26",
+      "27"
+    ]
+  },
+  {
+    "date": "FRI 20 JAN 2023",
+    "pool": "PA",
+    "venue": "Matmut Stadium de Gerland, Lyon",
+    "teamA": "Lyon",
+    "teamB": "Vodacom Bulls",
+    "result": "AWAY_WIN",
+    "winner": "Vodacom Bulls",
+    "score": [
+      "31",
+      "7"
+    ]
+  },
+  {
+    "date": "SAT 21 JAN 2023",
+    "pool": "PA",
+    "venue": "Twickenham Stoop, Twickenham",
+    "teamA": "Harlequins",
+    "teamB": "Cell C Sharks",
+    "result": "HOME_WIN",
+    "winner": "Harlequins",
+    "score": [
+      "39",
+      "29"
+    ]
+  },
+  {
+    "date": "SAT 21 JAN 2023",
+    "pool": "PB",
+    "venue": "cinch Stadium at Franklin's Gardens, Northampton",
+    "teamA": "Northampton Saints",
+    "teamB": "Stade Rochelais",
+    "result": "AWAY_WIN",
+    "winner": "Stade Rochelais",
+    "score": [
+      "13",
+      "31"
+    ]
+  },
+  {
+    "date": "SAT 21 JAN 2023",
+    "pool": "PA",
+    "venue": "Aviva Stadium, Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Racing 92",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "36",
+      "10"
+    ]
+  },
+  {
+    "date": "SAT 21 JAN 2023",
+    "pool": "PA",
+    "venue": "Stade Chaban-Delmas, Bordeaux",
+    "teamA": "Union Bordeaux-Bègles",
+    "teamB": "Gloucester Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Gloucester Rugby",
+    "score": [
+      "17",
+      "26"
+    ]
+  },
+  {
+    "date": "SAT 21 JAN 2023",
+    "pool": "PA",
+    "venue": "Sandy Park, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "Castres Olympique",
+    "result": "HOME_WIN",
+    "winner": "Exeter Chiefs",
+    "score": [
+      "40",
+      "3"
+    ]
+  },
+  {
+    "date": "SAT 21 JAN 2023",
+    "pool": "PB",
+    "venue": "DHL Stadium, Cape Town",
+    "teamA": "DHL Stormers",
+    "teamB": "ASM Clermont Auvergne",
+    "result": "HOME_WIN",
+    "winner": "DHL Stormers",
+    "score": [
+      "30",
+      "16"
+    ]
+  },
+  {
+    "date": "SAT 21 JAN 2023",
+    "pool": "PB",
+    "venue": "Kingspan Stadium, Belfast",
+    "teamA": "Ulster Rugby",
+    "teamB": "Sale Sharks",
+    "result": "HOME_WIN",
+    "winner": "Ulster Rugby",
+    "score": [
+      "22",
+      "11"
+    ]
+  },
+  {
+    "date": "SUN 22 JAN 2023",
+    "pool": "PB",
+    "venue": "GGL Stadium, Montpellier",
+    "teamA": "Montpellier Hérault Rugby",
+    "teamB": "London Irish",
+    "result": "DRAW",
+    "winner": null,
+    "score": [
+      "21",
+      "21"
+    ]
+  },
+  {
+    "date": "SUN 22 JAN 2023",
+    "pool": "PB",
+    "venue": "Stade Ernest Wallon, Toulouse",
+    "teamA": "Stade Toulousain",
+    "teamB": "Munster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "20",
+      "16"
+    ]
+  },
+  {
+    "date": "SUN 22 JAN 2023",
+    "pool": "PA",
+    "venue": "DAM Health Stadium, Edinburgh",
+    "teamA": "Edinburgh Rugby",
+    "teamB": "Saracens",
+    "result": "HOME_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "20",
+      "14"
+    ]
+  },
+  {
+    "date": "FRI 31 MAR 2023",
+    "pool": "R16",
+    "venue": "Mattioli Woods Welford Road, Leicester",
+    "teamA": "Leicester Tigers",
+    "teamB": "Edinburgh Rugby",
+    "result": "AWAY_WIN",
+    "winner": "Edinburgh Rugby",
+    "score": [
+      "16",
+      "6"
+    ]
+  },
+  {
+    "date": "SAT 01 APR 2023",
+    "pool": "R16",
+    "venue": "Hollywoodbets Kings Park, Durban",
+    "teamA": "Cell C Sharks",
+    "teamB": "Munster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Cell C Sharks",
+    "score": [
+      "50",
+      "35"
+    ]
+  },
+  {
+    "date": "SAT 01 APR 2023",
+    "pool": "R16",
+    "venue": "DHL Stadium, Cape Town",
+    "teamA": "DHL Stormers",
+    "teamB": "Harlequins",
+    "result": "HOME_WIN",
+    "winner": "DHL Stormers",
+    "score": [
+      "32",
+      "28"
+    ]
+  },
+  {
+    "date": "SAT 01 APR 2023",
+    "pool": "R16",
+    "venue": "Aviva Stadium, Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Ulster Rugby",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "30",
+      "15"
+    ]
+  },
+  {
+    "date": "SAT 01 APR 2023",
+    "pool": "R16",
+    "venue": "Stade Marcel Deflandre, La Rochelle",
+    "teamA": "Stade Rochelais",
+    "teamB": "Gloucester Rugby",
+    "result": "HOME_WIN",
+    "winner": "Stade Rochelais",
+    "score": [
+      "29",
+      "26"
+    ]
+  },
+  {
+    "date": "SUN 02 APR 2023",
+    "pool": "R16",
+    "venue": "Sandy Park, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "Montpellier Hérault Rugby",
+    "result": "DRAW",
+    "winner": null,
+    "score": [
+      "33",
+      "33"
+    ]
+  },
+  {
+    "date": "SUN 02 APR 2023",
+    "pool": "R16",
+    "venue": "Le Stadium, Toulouse",
+    "teamA": "Stade Toulousain",
+    "teamB": "Vodacom Bulls",
+    "result": "AWAY_WIN",
+    "winner": "Vodacom Bulls",
+    "score": [
+      "33",
+      "9"
+    ]
+  },
+  {
+    "date": "SUN 02 APR 2023",
+    "pool": "R16",
+    "venue": "StoneX Stadium, Barnet",
+    "teamA": "Saracens",
+    "teamB": "Ospreys",
+    "result": "HOME_WIN",
+    "winner": "Saracens",
+    "score": [
+      "35",
+      "20"
+    ]
+  },
+  {
+    "date": "FRI 07 APR 2023",
+    "pool": "QF",
+    "venue": "Aviva Stadium, Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Leicester Tigers",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "55",
+      "24"
+    ]
+  },
+  {
+    "date": "SAT 08 APR 2023",
+    "pool": "QF",
+    "venue": "Stade Ernest Wallon, Toulouse",
+    "teamA": "Stade Toulousain",
+    "teamB": "Cell C Sharks",
+    "result": "HOME_WIN",
+    "winner": "Stade Toulousain",
+    "score": [
+      "54",
+      "20"
+    ]
+  },
+  {
+    "date": "SAT 08 APR 2023",
+    "pool": "QF",
+    "venue": "Sandy Park, Exeter",
+    "teamA": "Exeter Chiefs",
+    "teamB": "DHL Stormers",
+    "result": "HOME_WIN",
+    "winner": "Exeter Chiefs",
+    "score": [
+      "42",
+      "17"
+    ]
+  },
+  {
+    "date": "SUN 09 APR 2023",
+    "pool": "QF",
+    "venue": "Stade Marcel Deflandre, La Rochelle",
+    "teamA": "Stade Rochelais",
+    "teamB": "Saracens",
+    "result": "HOME_WIN",
+    "winner": "Stade Rochelais",
+    "score": [
+      "24",
+      "10"
+    ]
+  },
+  {
+    "date": "SAT 29 APR 2023",
+    "pool": "SF",
+    "venue": "Aviva Stadium, Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Stade Toulousain",
+    "result": "HOME_WIN",
+    "winner": "Leinster Rugby",
+    "score": [
+      "41",
+      "22"
+    ]
+  },
+  {
+    "date": "SUN 30 APR 2023",
+    "pool": "SF",
+    "venue": "Matmut ATLANTIQUE, Bordeaux",
+    "teamA": "Stade Rochelais",
+    "teamB": "Exeter Chiefs",
+    "result": "HOME_WIN",
+    "winner": "Stade Rochelais",
+    "score": [
+      "47",
+      "28"
+    ]
+  },
+  {
+    "date": "SAT 20 MAY 2023",
+    "pool": "F",
+    "venue": "Aviva Stadium, Dublin",
+    "teamA": "Leinster Rugby",
+    "teamB": "Stade Rochelais",
+    "result": "AWAY_WIN",
+    "winner": "Stade Rochelais",
+    "score": [
+      "26",
+      "27"
+    ]
+  }
+]
